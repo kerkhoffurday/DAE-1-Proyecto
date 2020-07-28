@@ -1,0 +1,20 @@
+BD ACTUALIZADA
+HOST: isilo.db.elephantsql.com
+USER: kpqtbiai
+PASSWORD: 9jyWcuKjmkkiHmvmFCugWbC3BKtKxVFe
+DATABASDE: kpqtbiai
+URL:
+jdbc:postgresql://isilo.db.elephantsql.com:5432/kpqtbiai
+postgres://kpqtbiai:9jyWcuKjmkkiHmvmFCugWbC3BKtKxVFe@isilo.db.elephantsql.com:5432/kpqtbiai
+
+
+
+ANTIGUA
+Host: tuffi.db.elephantsql.com
+User: efaibmnc
+Password: HS40AuOa05d4wYYBTmXSzWfX0WxONfYb
+Database:  efaibmnc
+URL:  postgres://efaibmnc:HS40AuOa05d4wYYBTmXSzWfX0WxONfYb@tuffi.db.elephantsql.com:5432/efaibmnc
+URL2: jdbc:postgresql://tuffi.db.elephantsql.com:5432/efaibmnc
+
+
